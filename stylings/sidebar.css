@@ -1,0 +1,25 @@
+.sidebar{
+   position:fixed;
+   top:66px;
+   bottom:0;
+   left:0;
+   width:80px;
+}
+.side-div{
+   display:flex;
+   height:100px;
+   
+   justify-content:center;
+   align-items:center;
+   flex-direction:column;
+   
+}
+.side-div img{
+   height:36px;
+   margin-bottom:4px;
+}
+
+.sidebar div{
+   font-size:14px;
+   font-family:arial;
+}
